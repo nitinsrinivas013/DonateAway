@@ -11,6 +11,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.DonateAway">
+
         <activity
             android:name=".MainActivity2"
             android:exported="true"
@@ -26,8 +27,7 @@
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.DonateAway">
-        </activity>
+            android:theme="@style/Theme.DonateAway" />
     </application>
 
 </manifest>
